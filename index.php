@@ -6,7 +6,7 @@
  * @copyright	2017 Fariz Luqman
  * @license		MIT
  *
- * @link		https://stupidlysimple.github.io/
+ * @link		https://www.stupidlysimple.github.io/
  */
 
 /*
